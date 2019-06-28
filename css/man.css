@@ -24,7 +24,7 @@
 		margin-top: 45px;
 		overflow: hidden;
 		z-index: 10;
-		background: rgba(215,22,25,1.00);
+		background: rgba(200,200,200,0.8);
 		transition: all 0.5s ease-in-out;
 	}
 	.people:hover{
